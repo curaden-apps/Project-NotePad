@@ -1,0 +1,22 @@
+{
+  "notes": [],
+  "links": [],
+  "tags": [],
+  "analyses": [],
+  "brand": {
+    "revolverWheel": {
+      "style": "ring + central action",
+      "defaultActions": [
+        "paragraph",
+        "heading",
+        "quote",
+        "code",
+        "bullet",
+        "numbered",
+        "todo",
+        "nested-todo"
+      ]
+    }
+  },
+  "updatedAt": ""
+}
